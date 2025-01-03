@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in an R function designed to calculate the mean of a numeric vector.  The function incorrectly handles vectors containing only NA values, resulting in NaN instead of the expected NA. The bug is explained, and a corrected version is provided.
